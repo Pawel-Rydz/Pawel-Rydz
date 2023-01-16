@@ -6,4 +6,6 @@ link do artykułu i forka
 
 https://paperswithcode.com/paper/tflearn-tensorflows-high-level-module-for
 
+https://github.com/tensorflow/tensorflow
+
 https://github.com/Pawel-Rydz/tensorflow
